@@ -34,5 +34,5 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 📬 Contact<br>
 If you have any questions or suggestions, feel free to reach out:<br>
 
-GitHub: <br>
+<br>
 Email: ushasainath30@gmail.com
