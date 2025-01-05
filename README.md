@@ -2,31 +2,31 @@
 
 A simple and interactive Tic Tac Toe game developed using HTML, CSS, and JavaScript. This project demonstrates fundamental web development skills and provides an engaging user experience.
 
-🎮 Features<br>
+🎮 Features :<br>
 Player vs Player Mode: Play with a friend on the same device.<br>
 Stylish UI: Modern design using CSS for a visually appealing interface.<br>
 Winner Detection: Highlights the winner or declares a draw.<br>
 
-🚀 Demo
+🚀 Demo:
 Click here to play the game! (Replace this with your live demo link, if available)
 
-🛠️ Technologies Used
-HTML: Structure of the game.
-CSS: Styling for a modern look and feel.
-JavaScript: Game logic and interactivity.
+🛠️ Technologies Used :<br>
+HTML: Structure of the game.<br>
+CSS: Styling for a modern look and feel.<br>
+JavaScript: Game logic and interactivity.<br>
 
 
-📂 Project Structure
+📂 Project Structure : <br>
 tic-tac-toe/  
 ├── index.html        # Main HTML file  
 ├── style.css         # CSS for styling  
 └── script.js         # JavaScript for game logic  
 
-🎯 How to Play
-Open the game in your browser.
-Players take turns clicking on the grid to place their mark (X or O).
-The first player to align three marks horizontally, vertically, or diagonally wins.
-If the grid is full and no player has aligned three marks, the game ends in a draw.
+🎯 How to Play : <br>
+Open the game in your browser.<br>
+Players take turns clicking on the grid to place their mark (X or O).<br>
+The first player to align three marks horizontally, vertically, or diagonally wins.<br>
+If the grid is full and no player has aligned three marks, the game ends in a draw.<br>
 
 🤝 Contributions
 Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements.
