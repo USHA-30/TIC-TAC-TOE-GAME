@@ -7,8 +7,9 @@ Player vs Player Mode: Play with a friend on the same device.<br>
 Stylish UI: Modern design using CSS for a visually appealing interface.<br>
 Winner Detection: Highlights the winner or declares a draw.<br>
 
-🚀 Demo:
-Click here to play the game! (Replace this with your live demo link, if available)
+🚀 Demo:<br>
+Click here to play the game! : https://usha-30.github.io/TIC-TAC-TOE-GAME/
+
 
 🛠️ Technologies Used :<br>
 HTML: Structure of the game.<br>
