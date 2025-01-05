@@ -2,10 +2,10 @@
 
 A simple and interactive Tic Tac Toe game developed using HTML, CSS, and JavaScript. This project demonstrates fundamental web development skills and provides an engaging user experience.
 
-🎮 Features
-Player vs Player Mode: Play with a friend on the same device.
-Stylish UI: Modern design using CSS for a visually appealing interface.
-Winner Detection: Highlights the winner or declares a draw.
+🎮 Features<br>
+Player vs Player Mode: Play with a friend on the same device.<br>
+Stylish UI: Modern design using CSS for a visually appealing interface.<br>
+Winner Detection: Highlights the winner or declares a draw.<br>
 
 🚀 Demo
 Click here to play the game! (Replace this with your live demo link, if available)
