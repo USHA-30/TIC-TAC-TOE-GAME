@@ -28,11 +28,11 @@ Players take turns clicking on the grid to place their mark (X or O).<br>
 The first player to align three marks horizontally, vertically, or diagonally wins.<br>
 If the grid is full and no player has aligned three marks, the game ends in a draw.<br>
 
-🤝 Contributions
+🤝 Contributions<br><br>
 Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements.
 
-📬 Contact
-If you have any questions or suggestions, feel free to reach out:
+📬 Contact<br>
+If you have any questions or suggestions, feel free to reach out:<br>
 
-GitHub: 
+GitHub: <br>
 Email: ushasainath30@gmail.com
